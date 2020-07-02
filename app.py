@@ -1,3 +1,4 @@
+import os
 from os import environ
 import pandas as pd
 import numpy as np
